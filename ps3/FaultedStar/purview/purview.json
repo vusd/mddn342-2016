@@ -1,0 +1,25 @@
+{
+  "commits": [
+
+       {
+      "sha": "1026feb7d3ca491f869cfbbdf6daa0d4f80c0292",
+      "name": "Final"
+    },
+       {
+      "sha": "f50cdf243ddd4cb0288ac70b71d9baf9344d66e3",
+      "name": "Added imdb data"
+    },
+    {
+      "sha": "2157e46bb57c9ca4196265ed3ae45067027985d7",
+      "name": "Added more closed Data"
+    },
+    {
+      "sha": "bbf52e971f5ff07b6138bea3052321c09d2e32e0",
+      "name": "Added closed data .json file"
+    },
+     {
+      "sha": "02f3f46ac7f204cabb3e86c34ac7adbfeee3a360",
+      "name": "First attempt"
+    }
+  ]
+}

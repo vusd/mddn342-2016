@@ -1,0 +1,24 @@
+{
+  "commits": [
+    {
+      "sha": "5a13e4a8995c65606b748dd4fcffdda352bc1920",
+      "name": "final_version"
+    },
+    {
+      "sha": "4534dadc21515e0f92ca568eebd4e7333aac9654",
+      "name": "green_bot"
+    },
+    {
+      "sha": "eb0e60d411e82d409a274435d2aa7a84005526fb",
+      "name": "closed_bot"
+    },
+    {
+      "sha": "77871855ff0333b8d68c8ab62e6de2e3d5750f9b",
+      "name": "experiment_2"
+    },
+    {
+      "sha": "abfd562a8ba207ffc7327fda5eb6be34feaccae2",
+      "name": "experiment_1"
+    }
+  ]
+}

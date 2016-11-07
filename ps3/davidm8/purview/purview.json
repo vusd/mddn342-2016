@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "9a172f8c35e6df80382fcd0dab75767982b0cae1",
+      "name": "final_version"
+    },
+    {
+      "sha": "b5c545fce2b366bad90b0d0dfc028155a1642797",
+      "name": "Closed_Bot"
+    },
+    {
+      "sha": "eef72ca085043acaac95a9992a6f4fdc71253611",
+      "name": "Idea"
+    }
+  ]
+}

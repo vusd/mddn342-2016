@@ -1,0 +1,3 @@
+PS3 MDDN 342 2016
+
+Ok.. So image processing pretty much just doesn't work with images sourced live, so I've had to re-think my process a bit. I've landed in a place where I think the traffic image itself matches the feeling of my text enough that they work together. In this iteration it is just pulling the live images from the webcams around new zealand, and appending the sentence produced by tracery with it. I will now extend my possible sentences with more closed data.

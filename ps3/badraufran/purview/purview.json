@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "226d49756fe86706e2adf1f8fe4f9659f2dbb0b8",
+      "name": "green_bot"
+    },
+    {
+      "sha": "2818ac47337e954822660c65f8ffbc465d115884",
+      "name": "closed_bot"
+    },
+    {
+      "sha": "ff2c7a35b69a54209051b51ed8a7689308f2be9d",
+      "name": "initial_idea"
+    }
+  ]
+}

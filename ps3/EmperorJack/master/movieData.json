@@ -1,0 +1,26 @@
+[
+  {
+    "name": "boulder",
+    "text": "I like that #thing#. That is a NICE #thing#",
+    "imageX": 250,
+    "imageY": 96,
+    "imageW": 135,
+    "imageH": 102
+  },
+  {
+    "name": "swamp",
+    "text": "WHAT ARE YOU DOING IN MY #thing#?!",
+    "imageX": 128,
+    "imageY": 67,
+    "imageW": 190,
+    "imageH": 124
+  },
+  {
+    "name": "onion",
+    "text": "NO! You dense, irritating, miniature beast of burden! OGRES ARE LIKE #things#!",
+    "imageX": 230,
+    "imageY": 100,
+    "imageW": 97,
+    "imageH": 70
+  }
+]

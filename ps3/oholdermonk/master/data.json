@@ -1,0 +1,1098 @@
+[
+  {
+    "num": 0,
+    "country": "Albania",
+    "unemployment_rate": 19.3,
+    "gdp_per_cap": 11305,
+    "gov_type": "Republic",
+    "population": "2,886,026"
+  },
+  {
+    "num": 1,
+    "country": "Algeria",
+    "unemployment_rate": 11.2,
+    "gdp_per_cap": 14687,
+    "gov_type": "Republic",
+    "population": "40,400,000"
+  },
+  {
+    "num": 2,
+    "country": "Antigua and Barbuda",
+    "unemployment_rate": 11,
+    "gdp_per_cap": 22968,
+    "gov_type": "Constitutional monarchy",
+    "population": "86,295"
+  },
+  {
+    "num": 3,
+    "country": "Armenia",
+    "unemployment_rate": 18.5,
+    "gdp_per_cap": 8070,
+    "gov_type": "Republic",
+    "population": "2,995,100"
+  },
+  {
+    "num": 4,
+    "country": "Australia",
+    "unemployment_rate": 5.8,
+    "gdp_per_cap": 45514,
+    "gov_type": "Constitutional monarchy",
+    "population": "24,184,100"
+  },
+  {
+    "num": 5,
+    "country": "Austria",
+    "unemployment_rate": 9.1,
+    "gdp_per_cap": 47824,
+    "gov_type": "Republic",
+    "population": "8,741,753"
+  },
+  {
+    "num": 6,
+    "country": "Azerbaijan",
+    "unemployment_rate": 5.3,
+    "gdp_per_cap": 17740,
+    "gov_type": "Republic",
+    "population": "9,755,500"
+  },
+  {
+    "num": 7,
+    "country": "Bahrain",
+    "unemployment_rate": 4.1,
+    "gdp_per_cap": 46946,
+    "gov_type": "Constitutional monarchy",
+    "population": "1,404,900"
+  },
+  {
+    "num": 8,
+    "country": "Bangladesh",
+    "unemployment_rate": 4.9,
+    "gdp_per_cap": 3123,
+    "gov_type": "Republic",
+    "population": "161,058,000"
+  },
+  {
+    "num": 9,
+    "country": "Barbados",
+    "unemployment_rate": 11.9,
+    "gdp_per_cap": 16391,
+    "gov_type": "Constitutional monarchy",
+    "population": "285,000"
+  },
+  {
+    "num": 10,
+    "country": "Belarus",
+    "unemployment_rate": 0.7,
+    "gdp_per_cap": 17661,
+    "gov_type": "Republic",
+    "population": "9,500,000"
+  },
+  {
+    "num": 11,
+    "country": "Belgium",
+    "unemployment_rate": 8.5,
+    "gdp_per_cap": 43992,
+    "gov_type": "Constitutional monarchy",
+    "population": "11,323,925"
+  },
+  {
+    "num": 12,
+    "country": "Belize",
+    "unemployment_rate": 12.9,
+    "gdp_per_cap": 8417,
+    "gov_type": "Constitutional monarchy",
+    "population": "375,909"
+  },
+  {
+    "num": 13,
+    "country": "Bhutan",
+    "unemployment_rate": 3.2,
+    "gdp_per_cap": 7816,
+    "gov_type": "Constitutional monarchy",
+    "population": "777,890"
+  },
+  {
+    "num": 14,
+    "country": "Bolivia",
+    "unemployment_rate": 7.4,
+    "gdp_per_cap": 6630,
+    "gov_type": "Republic",
+    "population": "10,985,059"
+  },
+  {
+    "num": 15,
+    "country": "Bosnia and Herzegovina",
+    "unemployment_rate": 35,
+    "gdp_per_cap": 10427,
+    "gov_type": "Republic",
+    "population": "3,531,159"
+  },
+  {
+    "num": 16,
+    "country": "Botswana",
+    "unemployment_rate": 17.8,
+    "gdp_per_cap": 15807,
+    "gov_type": "Republic",
+    "population": "2,230,905"
+  },
+  {
+    "num": 17,
+    "country": "Brazil",
+    "unemployment_rate": 10.9,
+    "gdp_per_cap": 15359,
+    "gov_type": "Republic",
+    "population": "206,634,000"
+  },
+  {
+    "num": 18,
+    "country": "Brunei",
+    "unemployment_rate": 2.7,
+    "gdp_per_cap": 70817,
+    "gov_type": "Absolute monarchy",
+    "population": "411,900"
+  },
+  {
+    "num": 19,
+    "country": "Bulgaria",
+    "unemployment_rate": 9.9,
+    "gdp_per_cap": 17512,
+    "gov_type": "Republic",
+    "population": "7,153,784"
+  },
+  {
+    "num": 20,
+    "country": "Cambodia",
+    "unemployment_rate": 0.5,
+    "gdp_per_cap": 3263,
+    "gov_type": "Constitutional monarchy",
+    "population": "15,626,444"
+  },
+  {
+    "num": 21,
+    "country": "Cameroon",
+    "unemployment_rate": 4.4,
+    "gdp_per_cap": 2972,
+    "gov_type": "Republic",
+    "population": "22,709,892"
+  },
+  {
+    "num": 22,
+    "country": "Canada",
+    "unemployment_rate": 6.9,
+    "gdp_per_cap": 44310,
+    "gov_type": "Constitutional monarchy",
+    "population": "36,522,300"
+  },
+  {
+    "num": 23,
+    "country": "Cape Verde",
+    "unemployment_rate": 15.8,
+    "gdp_per_cap": 6520,
+    "gov_type": "Republic",
+    "population": "531,239"
+  },
+  {
+    "num": 24,
+    "country": "Central African Republic",
+    "unemployment_rate": 8,
+    "gdp_per_cap": 594,
+    "gov_type": "Republic",
+    "population": "4,998,000"
+  },
+  {
+    "num": 25,
+    "country": "Chad",
+    "unemployment_rate": 22.6,
+    "gdp_per_cap": 2182,
+    "gov_type": "Republic",
+    "population": "14,497,000"
+  },
+  {
+    "num": 26,
+    "country": "Chile",
+    "unemployment_rate": 5.9,
+    "gdp_per_cap": 22316,
+    "gov_type": "Republic",
+    "population": "18,191,900"
+  },
+  {
+    "num": 27,
+    "country": "Colombia",
+    "unemployment_rate": 8.9,
+    "gdp_per_cap": 13801,
+    "gov_type": "Republic",
+    "population": "48,830,300"
+  },
+  {
+    "num": 28,
+    "country": "Comoros",
+    "unemployment_rate": 20,
+    "gdp_per_cap": 1429,
+    "gov_type": "Republic",
+    "population": "806,153"
+  },
+  {
+    "num": 29,
+    "country": "Costa Rica",
+    "unemployment_rate": 9.7,
+    "gdp_per_cap": 15377,
+    "gov_type": "Republic",
+    "population": "4,890,379"
+  },
+  {
+    "num": 30,
+    "country": "Croatia",
+    "unemployment_rate": 18.2,
+    "gdp_per_cap": 21881,
+    "gov_type": "Republic",
+    "population": "4,190,669"
+  },
+  {
+    "num": 31,
+    "country": "Cuba",
+    "unemployment_rate": 3.3,
+    "gdp_per_cap": 20649,
+    "gov_type": "Republic",
+    "population": "11,239,004"
+  },
+  {
+    "num": 32,
+    "country": "Czech Republic",
+    "unemployment_rate": 5.2,
+    "gdp_per_cap": 32167,
+    "gov_type": "Republic",
+    "population": "10,558,524"
+  },
+  {
+    "num": 33,
+    "country": "Denmark",
+    "unemployment_rate": 5.8,
+    "gdp_per_cap": 46635,
+    "gov_type": "Constitutional monarchy",
+    "population": "5,724,456"
+  },
+  {
+    "num": 34,
+    "country": "Djibouti",
+    "unemployment_rate": 60,
+    "gdp_per_cap": 3270,
+    "gov_type": "Republic",
+    "population": "900,000"
+  },
+  {
+    "num": 35,
+    "country": "Dominica",
+    "unemployment_rate": 23,
+    "gdp_per_cap": 11278,
+    "gov_type": "Republic",
+    "population": "71,293"
+  },
+  {
+    "num": 36,
+    "country": "Dominican Republic",
+    "unemployment_rate": 14.4,
+    "gdp_per_cap": 14212,
+    "gov_type": "Republic",
+    "population": "10,075,045"
+  },
+  {
+    "num": 37,
+    "country": "East Timor",
+    "unemployment_rate": 20,
+    "gdp_per_cap": 2227,
+    "gov_type": "Republic",
+    "population": "1,167,242"
+  },
+  {
+    "num": 38,
+    "country": "Ecuador",
+    "unemployment_rate": 4.8,
+    "gdp_per_cap": 11388,
+    "gov_type": "Republic",
+    "population": "16,609,177"
+  },
+  {
+    "num": 39,
+    "country": "Egypt",
+    "unemployment_rate": 8.1,
+    "gdp_per_cap": 10891,
+    "gov_type": "Republic",
+    "population": "91,557,600"
+  },
+  {
+    "num": 40,
+    "country": "El Salvador",
+    "unemployment_rate": 6.1,
+    "gdp_per_cap": 8351,
+    "gov_type": "Republic",
+    "population": "6,520,675"
+  },
+  {
+    "num": 41,
+    "country": "Equatorial Guinea",
+    "unemployment_rate": 22.3,
+    "gdp_per_cap": 30041,
+    "gov_type": "Republic",
+    "population": "1,222,442"
+  },
+  {
+    "num": 42,
+    "country": "Estonia",
+    "unemployment_rate": 6.3,
+    "gdp_per_cap": 28095,
+    "gov_type": "Republic",
+    "population": "1,315,944"
+  },
+  {
+    "num": 43,
+    "country": "Fiji",
+    "unemployment_rate": 8.6,
+    "gdp_per_cap": 8792,
+    "gov_type": "Republic",
+    "population": "867,000"
+  },
+  {
+    "num": 44,
+    "country": "Finland",
+    "unemployment_rate": 9.1,
+    "gdp_per_cap": 40601,
+    "gov_type": "Republic",
+    "population": "5,495,830"
+  },
+  {
+    "num": 45,
+    "country": "Gabon",
+    "unemployment_rate": 21,
+    "gdp_per_cap": 20010,
+    "gov_type": "Republic",
+    "population": "1,802,278"
+  },
+  {
+    "num": 46,
+    "country": "Germany",
+    "unemployment_rate": 4.5,
+    "gdp_per_cap": 47268,
+    "gov_type": "Republic",
+    "population": "82,175,700"
+  },
+  {
+    "num": 47,
+    "country": "Ghana",
+    "unemployment_rate": 3.6,
+    "gdp_per_cap": 4082,
+    "gov_type": "Republic",
+    "population": "27,670,174"
+  },
+  {
+    "num": 48,
+    "country": "Greece",
+    "unemployment_rate": 24.1,
+    "gdp_per_cap": 26680,
+    "gov_type": "Republic",
+    "population": "10,858,018"
+  },
+  {
+    "num": 49,
+    "country": "Grenada",
+    "unemployment_rate": 24.5,
+    "gdp_per_cap": 12967,
+    "gov_type": "Constitutional monarchy",
+    "population": "103,328"
+  },
+  {
+    "num": 50,
+    "country": "Guatemala",
+    "unemployment_rate": 4.1,
+    "gdp_per_cap": 7454,
+    "gov_type": "Republic",
+    "population": "16,176,133"
+  },
+  {
+    "num": 51,
+    "country": "Guyana",
+    "unemployment_rate": 9,
+    "gdp_per_cap": 6878,
+    "gov_type": "Republic",
+    "population": "746,900"
+  },
+  {
+    "num": 52,
+    "country": "Honduras",
+    "unemployment_rate": 4.3,
+    "gdp_per_cap": 4909,
+    "gov_type": "Republic",
+    "population": "8,721,014"
+  },
+  {
+    "num": 53,
+    "country": "Hungary",
+    "unemployment_rate": 6,
+    "gdp_per_cap": 25582,
+    "gov_type": "Republic",
+    "population": "9,823,000"
+  },
+  {
+    "num": 54,
+    "country": "Iceland",
+    "unemployment_rate": 3.2,
+    "gdp_per_cap": 46547,
+    "gov_type": "Republic",
+    "population": "336,060"
+  },
+  {
+    "num": 55,
+    "country": "India",
+    "unemployment_rate": 3.6,
+    "gdp_per_cap": 6020,
+    "gov_type": "Republic",
+    "population": "1,330,820,000"
+  },
+  {
+    "num": 56,
+    "country": "Indonesia",
+    "unemployment_rate": 5.7,
+    "gdp_per_cap": 11035,
+    "gov_type": "Republic",
+    "population": "260,581,000"
+  },
+  {
+    "num": 57,
+    "country": "Iran",
+    "unemployment_rate": 11.212,
+    "gdp_per_cap": 17303,
+    "gov_type": "Republic",
+    "population": "79,524,500"
+  },
+  {
+    "num": 58,
+    "country": "Iraq",
+    "unemployment_rate": 16,
+    "gdp_per_cap": 14895,
+    "gov_type": "Republic",
+    "population": "37,883,543"
+  },
+  {
+    "num": 59,
+    "country": "Ireland",
+    "unemployment_rate": 7.8,
+    "gdp_per_cap": 54654,
+    "gov_type": "Republic",
+    "population": "4,757,976"
+  },
+  {
+    "num": 60,
+    "country": "Israel",
+    "unemployment_rate": 4.7,
+    "gdp_per_cap": 35431,
+    "gov_type": "Republic",
+    "population": "8,580,240"
+  },
+  {
+    "num": 61,
+    "country": "Italy",
+    "unemployment_rate": 11.4,
+    "gdp_per_cap": 35897,
+    "gov_type": "Republic",
+    "population": "60,665,551"
+  },
+  {
+    "num": 62,
+    "country": "Jamaica",
+    "unemployment_rate": 14,
+    "gdp_per_cap": 8878,
+    "gov_type": "Constitutional monarchy",
+    "population": "2,723,246"
+  },
+  {
+    "num": 63,
+    "country": "Japan",
+    "unemployment_rate": 3.2,
+    "gdp_per_cap": 37322,
+    "gov_type": "Constitutional monarchy",
+    "population": "127,000,000"
+  },
+  {
+    "num": 64,
+    "country": "Jordan",
+    "unemployment_rate": 11.1,
+    "gdp_per_cap": 10880,
+    "gov_type": "Constitutional monarchy",
+    "population": "9,659,510"
+  },
+  {
+    "num": 65,
+    "country": "Kazakhstan",
+    "unemployment_rate": 6.1,
+    "gdp_per_cap": 25877,
+    "gov_type": "Republic",
+    "population": "17,753,200"
+  },
+  {
+    "num": 66,
+    "country": "Kenya",
+    "unemployment_rate": 42,
+    "gdp_per_cap": 2954,
+    "gov_type": "Republic",
+    "population": "47,251,000"
+  },
+  {
+    "num": 67,
+    "country": "Kiribati",
+    "unemployment_rate": 38.2,
+    "gdp_per_cap": 1809,
+    "gov_type": "Republic",
+    "population": "113,400"
+  },
+  {
+    "num": 68,
+    "country": "Kuwait",
+    "unemployment_rate": 3,
+    "gdp_per_cap": 71312,
+    "gov_type": "Constitutional monarchy",
+    "population": "4,183,658"
+  },
+  {
+    "num": 69,
+    "country": "Kyrgyzstan",
+    "unemployment_rate": 8,
+    "gdp_per_cap": 3322,
+    "gov_type": "Republic",
+    "population": "6,047,800"
+  },
+  {
+    "num": 70,
+    "country": "Laos",
+    "unemployment_rate": 1.4,
+    "gdp_per_cap": 5321,
+    "gov_type": "Republic",
+    "population": "6,492,400"
+  },
+  {
+    "num": 71,
+    "country": "Latvia",
+    "unemployment_rate": 9.8,
+    "gdp_per_cap": 24286,
+    "gov_type": "Republic",
+    "population": "1,958,800"
+  },
+  {
+    "num": 72,
+    "country": "Lebanon",
+    "unemployment_rate": 10,
+    "gdp_per_cap": 13938,
+    "gov_type": "Republic",
+    "population": "5,988,000"
+  },
+  {
+    "num": 73,
+    "country": "Lesotho",
+    "unemployment_rate": 42.7,
+    "gdp_per_cap": 2638,
+    "gov_type": "Constitutional monarchy",
+    "population": "1,916,000"
+  },
+  {
+    "num": 74,
+    "country": "Libya",
+    "unemployment_rate": 13,
+    "gdp_per_cap": 14154,
+    "gov_type": "n/a",
+    "population": "6,385,000"
+  },
+  {
+    "num": 75,
+    "country": "Lithuania",
+    "unemployment_rate": 9.2,
+    "gdp_per_cap": 27730,
+    "gov_type": "Republic",
+    "population": "2,866,935"
+  },
+  {
+    "num": 76,
+    "country": "Luxembourg",
+    "unemployment_rate": 6.5,
+    "gdp_per_cap": 101926,
+    "gov_type": "Constitutional monarchy",
+    "population": "576,200"
+  },
+  {
+    "num": 77,
+    "country": "Macedonia",
+    "unemployment_rate": 24,
+    "gdp_per_cap": 13908,
+    "gov_type": "Republic",
+    "population": "2,071,278"
+  },
+  {
+    "num": 78,
+    "country": "Malaysia",
+    "unemployment_rate": 3.1,
+    "gdp_per_cap": 26891,
+    "gov_type": "Constitutional monarchy",
+    "population": "31,752,000"
+  },
+  {
+    "num": 79,
+    "country": "Mali",
+    "unemployment_rate": 30,
+    "gdp_per_cap": 1599,
+    "gov_type": "Republic",
+    "population": "18,341,000"
+  },
+  {
+    "num": 80,
+    "country": "Marshall Islands",
+    "unemployment_rate": 36,
+    "gdp_per_cap": 3803,
+    "gov_type": "Republic",
+    "population": "54,880"
+  },
+  {
+    "num": 81,
+    "country": "Mauritania",
+    "unemployment_rate": 31,
+    "gdp_per_cap": 3912,
+    "gov_type": "Republic",
+    "population": "3,718,678"
+  },
+  {
+    "num": 82,
+    "country": "Mauritius",
+    "unemployment_rate": 7.9,
+    "gdp_per_cap": 19481,
+    "gov_type": "Republic",
+    "population": "1,262,879"
+  },
+  {
+    "num": 83,
+    "country": "Mexico",
+    "unemployment_rate": 4.9,
+    "gdp_per_cap": 17277,
+    "gov_type": "Republic",
+    "population": "128,632,000"
+  },
+  {
+    "num": 84,
+    "country": "Mongolia",
+    "unemployment_rate": 7.7,
+    "gdp_per_cap": 12189,
+    "gov_type": "Republic",
+    "population": "3,104,125"
+  },
+  {
+    "num": 85,
+    "country": "Montenegro",
+    "unemployment_rate": 18.3,
+    "gdp_per_cap": 15486,
+    "gov_type": "Republic",
+    "population": "621,810"
+  },
+  {
+    "num": 86,
+    "country": "Mozambique",
+    "unemployment_rate": 60,
+    "gdp_per_cap": 1129,
+    "gov_type": "Republic",
+    "population": "26,423,700"
+  },
+  {
+    "num": 87,
+    "country": "Namibia",
+    "unemployment_rate": 28.1,
+    "gdp_per_cap": 9956,
+    "gov_type": "Republic",
+    "population": "2,324,388"
+  },
+  {
+    "num": 88,
+    "country": "Netherlands",
+    "unemployment_rate": 6.4,
+    "gdp_per_cap": 48459,
+    "gov_type": "Constitutional monarchy",
+    "population": "17,047,800"
+  },
+  {
+    "num": 89,
+    "country": "New Zealand",
+    "unemployment_rate": 5.3,
+    "gdp_per_cap": 36982,
+    "gov_type": "Constitutional monarchy",
+    "population": "4,713,600"
+  },
+  {
+    "num": 90,
+    "country": "Nicaragua",
+    "unemployment_rate": 6,
+    "gdp_per_cap": 4918,
+    "gov_type": "Republic",
+    "population": "6,262,703"
+  },
+  {
+    "num": 91,
+    "country": "Nigeria",
+    "unemployment_rate": 6.4,
+    "gdp_per_cap": 5911,
+    "gov_type": "Republic",
+    "population": "186,988,000"
+  },
+  {
+    "num": 92,
+    "country": "Norway",
+    "unemployment_rate": 4.6,
+    "gdp_per_cap": 61472,
+    "gov_type": "Constitutional monarchy",
+    "population": "5,236,826"
+  },
+  {
+    "num": 93,
+    "country": "Pakistan",
+    "unemployment_rate": 8.5,
+    "gdp_per_cap": 4811,
+    "gov_type": "Republic",
+    "population": "194,214,000"
+  },
+  {
+    "num": 94,
+    "country": "Palau",
+    "unemployment_rate": 4.2,
+    "gdp_per_cap": 15286,
+    "gov_type": "Republic",
+    "population": "17,950"
+  },
+  {
+    "num": 95,
+    "country": "Panama",
+    "unemployment_rate": 5.6,
+    "gdp_per_cap": 22192,
+    "gov_type": "Republic",
+    "population": "3,814,672"
+  },
+  {
+    "num": 96,
+    "country": "Papua New Guinea",
+    "unemployment_rate": 1.9,
+    "gdp_per_cap": 2855,
+    "gov_type": "Constitutional monarchy",
+    "population": "8,083,700"
+  },
+  {
+    "num": 97,
+    "country": "Paraguay",
+    "unemployment_rate": 5.5,
+    "gdp_per_cap": 8911,
+    "gov_type": "Republic",
+    "population": "6,854,536"
+  },
+  {
+    "num": 98,
+    "country": "Peru",
+    "unemployment_rate": 6.1,
+    "gdp_per_cap": 12402,
+    "gov_type": "Republic",
+    "population": "31,488,700"
+  },
+  {
+    "num": 99,
+    "country": "Philippines",
+    "unemployment_rate": 5.6,
+    "gdp_per_cap": 6969,
+    "gov_type": "Republic",
+    "population": "102,991,000"
+  },
+  {
+    "num": 100,
+    "country": "Poland",
+    "unemployment_rate": 9.5,
+    "gdp_per_cap": 26135,
+    "gov_type": "Republic",
+    "population": "38,437,239"
+  },
+  {
+    "num": 101,
+    "country": "Portugal",
+    "unemployment_rate": 12.4,
+    "gdp_per_cap": 29214,
+    "gov_type": "Republic",
+    "population": "10,341,330"
+  },
+  {
+    "num": 102,
+    "country": "Romania",
+    "unemployment_rate": 6.4,
+    "gdp_per_cap": 21403,
+    "gov_type": "Republic",
+    "population": "19,760,000"
+  },
+  {
+    "num": 103,
+    "country": "Saint Kitts and Nevis",
+    "unemployment_rate": 5.1,
+    "gdp_per_cap": 24369,
+    "gov_type": "Constitutional monarchy",
+    "population": "46,204"
+  },
+  {
+    "num": 104,
+    "country": "Saint Lucia",
+    "unemployment_rate": 15.7,
+    "gdp_per_cap": 10991,
+    "gov_type": "Constitutional monarchy",
+    "population": "186,000"
+  },
+  {
+    "num": 105,
+    "country": "Saint Vincent and the Grenadines",
+    "unemployment_rate": 18,
+    "gdp_per_cap": 11029,
+    "gov_type": "Constitutional monarchy",
+    "population": "109,991"
+  },
+  {
+    "num": 106,
+    "country": "Saudi Arabia",
+    "unemployment_rate": 11.5,
+    "gdp_per_cap": 53430,
+    "gov_type": "Absolute monarchy",
+    "population": "31,015,999"
+  },
+  {
+    "num": 107,
+    "country": "Senegal",
+    "unemployment_rate": 48,
+    "gdp_per_cap": 2333,
+    "gov_type": "Republic",
+    "population": "14,799,859"
+  },
+  {
+    "num": 108,
+    "country": "Singapore",
+    "unemployment_rate": 1.9,
+    "gdp_per_cap": 85209,
+    "gov_type": "Republic",
+    "population": "5,535,000"
+  },
+  {
+    "num": 109,
+    "country": "Slovakia",
+    "unemployment_rate": 9.9,
+    "gdp_per_cap": 28877,
+    "gov_type": "Republic",
+    "population": "5,426,252"
+  },
+  {
+    "num": 110,
+    "country": "Slovenia",
+    "unemployment_rate": 12.6,
+    "gdp_per_cap": 31122,
+    "gov_type": "Republic",
+    "population": "2,063,371"
+  },
+  {
+    "num": 111,
+    "country": "South Africa",
+    "unemployment_rate": 26.7,
+    "gdp_per_cap": 13165,
+    "gov_type": "Republic",
+    "population": "55,653,654"
+  },
+  {
+    "num": 112,
+    "country": "Spain",
+    "unemployment_rate": 19.6,
+    "gdp_per_cap": 34527,
+    "gov_type": "Constitutional monarchy",
+    "population": "46,438,422"
+  },
+  {
+    "num": 113,
+    "country": "Sri Lanka",
+    "unemployment_rate": 4.2,
+    "gdp_per_cap": 11739,
+    "gov_type": "Republic",
+    "population": "20,966,000"
+  },
+  {
+    "num": 114,
+    "country": "Sudan",
+    "unemployment_rate": 13.6,
+    "gdp_per_cap": 4069,
+    "gov_type": "Republic",
+    "population": "41,176,000"
+  },
+  {
+    "num": 115,
+    "country": "Suriname",
+    "unemployment_rate": 8.9,
+    "gdp_per_cap": 16970,
+    "gov_type": "Republic",
+    "population": "541,638"
+  },
+  {
+    "num": 116,
+    "country": "Swaziland",
+    "unemployment_rate": 40.6,
+    "gdp_per_cap": 8292,
+    "gov_type": "Absolute monarchy",
+    "population": "1,132,657"
+  },
+  {
+    "num": 117,
+    "country": "Sweden",
+    "unemployment_rate": 7.7,
+    "gdp_per_cap": 46420,
+    "gov_type": "Constitutional monarchy",
+    "population": "9,920,881"
+  },
+  {
+    "num": 118,
+    "country": "Tajikistan",
+    "unemployment_rate": 2.4,
+    "gdp_per_cap": 2691,
+    "gov_type": "Republic",
+    "population": "8,551,000"
+  },
+  {
+    "num": 119,
+    "country": "Thailand",
+    "unemployment_rate": 0.9,
+    "gdp_per_cap": 16306,
+    "gov_type": "n/a",
+    "population": "65,729,098"
+  },
+  {
+    "num": 120,
+    "country": "Tonga",
+    "unemployment_rate": 1.1,
+    "gdp_per_cap": 5211,
+    "gov_type": "Constitutional monarchy",
+    "population": "103,252"
+  },
+  {
+    "num": 121,
+    "country": "Trinidad and Tobago",
+    "unemployment_rate": 3.7,
+    "gdp_per_cap": 32597,
+    "gov_type": "Republic",
+    "population": "1,349,667"
+  },
+  {
+    "num": 122,
+    "country": "Tunisia",
+    "unemployment_rate": 15.2,
+    "gdp_per_cap": 11397,
+    "gov_type": "Republic",
+    "population": "11,154,400"
+  },
+  {
+    "num": 123,
+    "country": "Turkey",
+    "unemployment_rate": 11.1,
+    "gdp_per_cap": 19618,
+    "gov_type": "Republic",
+    "population": "78,742,000"
+  },
+  {
+    "num": 124,
+    "country": "Turkmenistan",
+    "unemployment_rate": 3.5,
+    "gdp_per_cap": 16499,
+    "gov_type": "Republic",
+    "population": "4,751,120"
+  },
+  {
+    "num": 125,
+    "country": "United Arab Emirates",
+    "unemployment_rate": 4.3,
+    "gdp_per_cap": 70238,
+    "gov_type": "Absolute monarchy",
+    "population": "9,856,000"
+  },
+  {
+    "num": 126,
+    "country": "United Kingdom",
+    "unemployment_rate": 4.9,
+    "gdp_per_cap": 41325,
+    "gov_type": "Constitutional monarchy",
+    "population": "65,110,000"
+  },
+  {
+    "num": 127,
+    "country": "Uruguay",
+    "unemployment_rate": 7.7,
+    "gdp_per_cap": 21201,
+    "gov_type": "Republic",
+    "population": "3,480,222"
+  },
+  {
+    "num": 128,
+    "country": "Uzbekistan",
+    "unemployment_rate": 8,
+    "gdp_per_cap": 5573,
+    "gov_type": "Republic",
+    "population": "31,575,300"
+  },
+  {
+    "num": 129,
+    "country": "Vanuatu",
+    "unemployment_rate": 4.6,
+    "gdp_per_cap": 3031,
+    "gov_type": "Republic",
+    "population": "277,500"
+  },
+  {
+    "num": 130,
+    "country": "Venezuela",
+    "unemployment_rate": 6.7,
+    "gdp_per_cap": 18276,
+    "gov_type": "Republic",
+    "population": "31,028,700"
+  },
+  {
+    "num": 131,
+    "country": "Vietnam",
+    "unemployment_rate": 3.4,
+    "gdp_per_cap": 5629,
+    "gov_type": "Republic",
+    "population": "92,700,000"
+  },
+  {
+    "num": 132,
+    "country": "Yemen",
+    "unemployment_rate": 35,
+    "gdp_per_cap": 3785,
+    "gov_type": "Republic",
+    "population": "27,478,000"
+  },
+  {
+    "num": 133,
+    "country": "Zambia",
+    "unemployment_rate": 15,
+    "gdp_per_cap": 3904,
+    "gov_type": "Republic",
+    "population": "15,933,883"
+  },
+  {
+    "num": 134,
+    "country": "Zimbabwe",
+    "unemployment_rate": 80,
+    "gdp_per_cap": 1792,
+    "gov_type": "Republic",
+    "population": "14,240,168"
+  },
+  {
+    "num": 135,
+    "country": "United States",
+    "unemployment_rate": 4.9,
+    "gdp_per_cap": 53042,
+    "gov_type": "Republic",
+    "population": "319,000,000"
+  },
+  {
+    "num": 136,
+    "country": "China",
+    "unemployment_rate": 4.1,
+    "gdp_per_cap": 14107,
+    "gov_type": "communist state",
+    "population": "1,357,000,000"
+  }
+]

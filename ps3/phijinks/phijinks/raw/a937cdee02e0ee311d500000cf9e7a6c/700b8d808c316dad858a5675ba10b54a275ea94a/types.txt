@@ -1,0 +1,28 @@
+types of "concept":
+- noun
+- adjective noun
+- verb the noun
+- adjective
+- adjective and adjective
+- nouns and nouns
+
+------
+
+types of album name:
+- trackname
+- trackname and other songs
+- songs to verb to
+- trackname ep
+- artistname: greatest hits
+
+------
+
+types of artist name:
+- #concept#
+- name and the nouns
+- name and the adjective noun band
+- the nouns
+- the adjective nouns
+- adjectivenoun
+- nounnoun
+- nounverb

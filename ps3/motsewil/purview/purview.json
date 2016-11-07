@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "fd5cf0475c298a60286e32aecadad0ad27e74d24",
+      "name": "Green Bot : Final version"
+    },
+    {
+      "sha": "8fb4df5bbd13dd419dc35c5fd3d13fe1732614d0",
+      "name": "Closed Bot"
+    },
+    {
+      "sha": "cb4e02ae2f394ad8cd51920873a41df3d5fc7901",
+      "name": "Idea generation"
+    }
+  ]
+}

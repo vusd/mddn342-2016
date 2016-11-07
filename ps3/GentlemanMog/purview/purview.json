@@ -1,0 +1,24 @@
+{
+  "commits": [
+    {
+      "sha": "30ced82d034d97e5c683ea9b00f4eba27bb5ffd6",
+      "name": "Finalized bot"
+    },
+    {
+      "sha": "d1be32b39b47d2d66115640522a75118ae334c57",
+      "name": "Graphics and Randomized Message Enhancment"
+    },
+    {
+      "sha": "1a76b7ddc3a48dc48c730e2ffecb45f68f520788",
+      "name": "Further Development"
+    },
+    {
+      "sha": "2423644ca32fac02f16a9705594533815b5ebb6e",
+      "name": "Semi-Developed Open bot"
+    },
+    {
+      "sha": "84eef2694efa802ca69b53aa9bf1b15c82ba5587",
+      "name": "Initial closed bot"
+    }
+  ]
+}

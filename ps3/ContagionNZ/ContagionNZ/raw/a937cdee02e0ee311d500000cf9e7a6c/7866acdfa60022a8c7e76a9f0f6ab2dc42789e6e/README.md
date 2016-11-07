@@ -1,0 +1,2 @@
+Continuing with the data im getting from the nasa api I have made the message that gets posted include the names of the people in space and have got the image from nasa's image of the day being posted as the background fo my work.
+The addtion of external imputs for thsi project has made the whole thing more interstng knowing it will be differint everyday thanks to the background image this data has made me see that having losed input limits the work quite a bit.

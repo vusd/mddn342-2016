@@ -1,0 +1,21 @@
+{
+	"origin": ["#genericIntro# #body#"],
+	"body":["Science Links #illness# To #cause#","#cause# Can Now Cause #illness#","Research proves #illness#  due to #cause#","#animal# Often Mistake #item# for #item#"],
+  "genericIntro":["Shocking:","Latest Discovery:","Statistical Breakthrough:","Unbelievable:","Conclusive Evidence:"],
+	"intro":["New Study Reveals How","Forensic Evidence Suggests","Scientists stunned as"],
+  "illness" :["#disease#","#adjective# #bodypart#"],
+	"disease":["Cancer","Hemorrhoids","Gangrene","Autoimmune Disease"],
+	"adjective":["Big","Large","Small","Long","Thin","Elongated"],
+	"bodypart":["Noses","Eyes","Hair","Nostrils","Thumbs","Legs"],
+	"animal":["Cats","Dogs","Chipmunks","Ostriches"],
+	"cause" : ["#activity# #item#"],
+	"activity":["Eating","Using Your","Playing With"],
+	"item": ["Cellphones","Sausages","Eyes","Desks","Gloves","Computers","Cars","Limbs","Porridge","Chainsaws","Platypus'","Donkies","Houses"]
+}
+
+
+
+
+
+
+/*DifinitiveConclusion*/

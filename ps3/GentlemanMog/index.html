@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=1000">
+<title>versions of gist a937cdee02e0ee311d500000cf9e7a6c</title>
+
+<link rel="icon" href="/static/favicon.png">
+<style>
+@import url("/static/style.css");
+</style>
+
+<header>
+  <div class="column">
+    <div class="navigation">
+      <a href="/">Home</a>
+    </div>
+    <a class="user self" title="view gist" href="GentlemanMog/a937cdee02e0ee311d500000cf9e7a6c">
+      Online Chatbot - Pokemon Fact Generator
+    </a>
+    <div class="date" id="how_many"></div>
+  </div>
+</header>
+
+<div class="column gists">
+  <br clear="both">
+  <!-- <div class="loading">Loading; one moment please…</div> -->
+  <!-- <div class="none" style="display:none;">Sorry, Tom White has no blocks. <a href="/">Learn more.</a></div> -->
+</div>
+
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script>
+
+var formatDate = d3.time.format("%B %-d, %Y"),
+    parseDate = d3.time.format.iso.parse,
+    page = 0,
+    fetching,
+    id;
+
+var blocks_run_root = "";
+var purview_file_root = "";
+
+var records = {"records": [{"id": "a937cdee02e0ee311d500000cf9e7a6c", "sha": "6a63c9411e87ce9cb770da7173c7a247a3c54ca4", "updated_at": "unknown", "login": "GentlemanMog", "created_at": "unknown", "description": "master"}, {"id": "a937cdee02e0ee311d500000cf9e7a6c", "sha": "30ced82d034d97e5c683ea9b00f4eba27bb5ffd6", "updated_at": "unknown", "login": "GentlemanMog", "created_at": "unknown", "description": "Finalized bot"}, {"id": "a937cdee02e0ee311d500000cf9e7a6c", "sha": "d1be32b39b47d2d66115640522a75118ae334c57", "updated_at": "unknown", "login": "GentlemanMog", "created_at": "unknown", "description": "Graphics and Randomized Message Enhancment"}, {"id": "a937cdee02e0ee311d500000cf9e7a6c", "sha": "1a76b7ddc3a48dc48c730e2ffecb45f68f520788", "updated_at": "unknown", "login": "GentlemanMog", "created_at": "unknown", "description": "Further Development"}, {"id": "a937cdee02e0ee311d500000cf9e7a6c", "sha": "2423644ca32fac02f16a9705594533815b5ebb6e", "updated_at": "unknown", "login": "GentlemanMog", "created_at": "unknown", "description": "Semi-Developed Open bot"}, {"id": "a937cdee02e0ee311d500000cf9e7a6c", "sha": "84eef2694efa802ca69b53aa9bf1b15c82ba5587", "updated_at": "unknown", "login": "GentlemanMog", "created_at": "unknown", "description": "Initial closed bot"}], "meta": {"login": "GentlemanMog", "id": "a937cdee02e0ee311d500000cf9e7a6c", "blocks_link": "GentlemanMog/a937cdee02e0ee311d500000cf9e7a6c", "description": "Online Chatbot - Pokemon Fact Generator"}}["records"]
+var hidden_records = {"records": [{"id": "a937cdee02e0ee311d500000cf9e7a6c", "sha": "6a63c9411e87ce9cb770da7173c7a247a3c54ca4", "updated_at": "unknown", "login": "GentlemanMog", "created_at": "unknown", "description": "master"}, {"id": "a937cdee02e0ee311d500000cf9e7a6c", "sha": "30ced82d034d97e5c683ea9b00f4eba27bb5ffd6", "updated_at": "unknown", "login": "GentlemanMog", "created_at": "unknown", "description": "Finalized bot"}, {"id": "a937cdee02e0ee311d500000cf9e7a6c", "sha": "d1be32b39b47d2d66115640522a75118ae334c57", "updated_at": "unknown", "login": "GentlemanMog", "created_at": "unknown", "description": "Graphics and Randomized Message Enhancment"}, {"id": "a937cdee02e0ee311d500000cf9e7a6c", "sha": "1a76b7ddc3a48dc48c730e2ffecb45f68f520788", "updated_at": "unknown", "login": "GentlemanMog", "created_at": "unknown", "description": "Further Development"}, {"id": "a937cdee02e0ee311d500000cf9e7a6c", "sha": "2423644ca32fac02f16a9705594533815b5ebb6e", "updated_at": "unknown", "login": "GentlemanMog", "created_at": "unknown", "description": "Semi-Developed Open bot"}, {"id": "a937cdee02e0ee311d500000cf9e7a6c", "sha": "84eef2694efa802ca69b53aa9bf1b15c82ba5587", "updated_at": "unknown", "login": "GentlemanMog", "created_at": "unknown", "description": "Initial closed bot"}], "meta": {"login": "GentlemanMog", "id": "a937cdee02e0ee311d500000cf9e7a6c", "blocks_link": "GentlemanMog/a937cdee02e0ee311d500000cf9e7a6c", "description": "Online Chatbot - Pokemon Fact Generator"}}["hidden_records"];
+var have_revealed_hidden = false;
+
+render(records);
+
+var howManyDiv = d3.select('#how_many');
+
+if(hidden_records && hidden_records.length > 0) {
+  howManyDiv.html("" + records.length + " versions shown");
+  var num_records = hidden_records.length + records.length
+  howManyDiv.append("span")
+    .on("click", reveal_hidden_records)
+    .html(" (show all " + num_records + ")")
+    .classed('reveal', true);
+}
+else {
+  howManyDiv.html("" + records.length + " known versions");
+}
+
+function reveal_hidden_records() {
+  if(have_revealed_hidden) {
+    return;
+  }
+  have_revealed_hidden = true;
+  render(hidden_records)
+  var num_records = hidden_records.length + records.length
+  howManyDiv.html("" + num_records + " known versions");
+}
+
+// iOS Safari hangs if you try to XMLHttpRequest before loading.
+if (!document.readyState || document.readyState === "complete") init();
+else if (/iPad|iPhone|iPod/.test(navigator.userAgent)) d3.select(window).on("load", init);
+else if (document.readyState === "loading") d3.select(window).on("DOMContentLoaded", init);
+else setTimeout(maybeFetch, 50);
+
+function init() {
+}
+
+// function init() {
+//   d3.select(window)
+//       .on("scroll", maybeFetch)
+//       .on("resize", maybeFetch)
+//       .each(maybeFetch);
+// }
+
+// function maybeFetch() {
+//   return;
+//   if (!fetching && page >= 0 && d3.select(".loading").node().getBoundingClientRect().top < document.documentElement.clientHeight + 100) {
+//     ++page;
+//     fetch();
+//   }
+// }
+
+// function fetch() {
+//   fetching = true;
+//   d3.json("/" + encodeURIComponent("dribnet") + "/" + page + ".json" + (id ? "?" + id : ""), function(error, gists) {
+//     fetching = false;
+//     setTimeout(maybeFetch, 50);
+//     if (!error) render(gists);
+//   });
+// }
+
+function id_sha(d) {
+  // returns id or id/sha if sha exists
+  return d.id + (d.sha ? "/" + d.sha : "");
+}
+
+function login(d) {
+  return (d.login ? d.login : "anonymous")
+}
+
+function render(gists) {
+
+  if (!gists.length) {
+    d3.select(".loading").remove();
+    if (page < 2) d3.select(".none").style("display", null);
+    page = id = NaN;
+    return;
+  }
+
+  id = gists[gists.length - 1].id;
+
+  gists.forEach(function(d) {
+    d.created_at = parseDate(d.created_at);
+    d.updated_at = parseDate(d.updated_at);
+  });
+
+  d3.select(".gists").selectAll(".gist")
+      .data(gists, function(d) { return id_sha(d); })
+    .enter().insert("a", "br")
+      .attr("class", "gist gist--thumbnail")
+      .attr("href", function(d) { return blocks_run_root + login(d) + "/" + id_sha(d); })
+      .style("background-image", function(d) { return "url(" + purview_file_root + login(d) + "/raw/" + id_sha(d) + "/thumbnail.png)"; })
+    .append("div")
+      .attr("class", "gist-description gist-underline")
+      .text(function(d) { return d.description || d.created_at || d.id; });
+}
+</script>

@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "d633429c29c0ca77cca55ceb83308a91975af17a",
+      "name": "Final_Bot_HACKspaceBot"
+    },
+    {
+      "sha": "fab4568f76f390c57b5dd1154afaec87240c4f84",
+      "name": "ImageOfDayNasa_AndRandomClosedBot"
+    },
+	  {
+	 	   "sha": "4421b8affb2640ca85e2c01cd0276bed324630c9",
+		    "name": "ChuckNorrisJokeGenerator_SemiOpenBot"
+	  }
+  ]
+}

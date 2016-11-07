@@ -1,0 +1,20 @@
+{
+  "commits": [
+    {
+      "sha": "960e2694ab3b2d0141fe8c6b660cbb7f90c79fad",
+      "name": "From Closed to Open"
+    },
+    {
+      "sha": "bf47b6684cb56d44d5a65968ba63687dce111fab",
+      "name": "The Closed Bot"
+    },
+    {
+      "sha": "21f313833fcc5ca0ed4c59a938ca4188af97c7e0",
+      "name": "Experiment 2"
+    },
+    {
+      "sha": "615b2a7918aaada8391d3bb6afa6bf80bbef9156",
+      "name": "Experiment 1"
+    }
+  ]
+}

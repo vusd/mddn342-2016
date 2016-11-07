@@ -1,0 +1,20 @@
+{
+  "commits": [
+    {
+      "sha": "186bb5b4b73c70a73c829f7055441fdd9894ffc8",
+      "name": "Part 1"
+    },
+    {
+      "sha": "fcf6090ab98393ec236707a7354522512bc7d8ff",
+      "name": "Part 2"
+    },
+    {
+      "sha": "056664c9e360de51ce4745eb001b0609070fe6e4",
+      "name": "Part 3"
+    },
+    {
+      "sha": "93ca6a3f4648d73898b6843c5e6fa6bf9ba4af2b",
+      "name": "Final"
+    }
+  ]
+}

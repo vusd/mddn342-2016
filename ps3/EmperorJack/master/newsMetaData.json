@@ -1,0 +1,45 @@
+{
+  "key": "a7aed5a1b95c4f11a07ed67eb4eda502",
+  "sources": [
+    {
+      "name": "national-geographic",
+      "sortBy": "top"
+    },
+    {
+      "name": "the-lad-bible",
+      "sortBy": "latest"
+    },
+    {
+      "name": "sky-news",
+      "sortBy": "top"
+    },
+    {
+      "name": "buzzfeed",
+      "sortBy": "latest"
+    },
+    {
+      "name": "cnn",
+      "sortBy": "top"
+    },
+    {
+      "name": "daily-mail",
+      "sortBy": "latest"
+    },
+    {
+      "name": "espn",
+      "sortBy": "top"
+    },
+    {
+      "name": "polygon",
+      "sortBy": "top"
+    },
+    {
+      "name": "google-news",
+      "sortBy": "top"
+    },
+    {
+      "name": "entertainment-weekly",
+      "sortBy": "top"
+    }
+  ]
+}

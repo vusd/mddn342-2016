@@ -1,0 +1,3 @@
+Micro Gallery
+
+With micro gallery I wanted to explore on how scale can effect our perspection on artistic medias and output images. I want to see if I can generate a conversational topic based on taking different pieces of images out of context. I also wanted to explore the idea of comtemporary art parrallel to my commentry. By extending these images into different scale I was able to warp their basic composition and take them to deliver my own commetry via their presentation. Just like a gallery I explore how people can respond and resonate with different pieces, and with that create a interesting design.

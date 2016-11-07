@@ -1,0 +1,14 @@
+{
+		"sentence" : ["I'd kill myself but #reasons#.","I could #activity# or kill myself with #method#.", "When I am #result# I'll be #quality#.", "If I was #quality# then I'd be #result#.", "My work is #shit# because I am #trueQuality#.", "I would #goal# but #excuses#.", "I'd tell you I wanna kill myself but then you'll know I'm #trueQuality#."],
+		"reasons": ["mum would be #mumSad#","everyone would think I'm #trueQuality#","it's #weather#"],
+		"mumSad" : ["furious", "devastated", "suicidal", "disappointed", "inconsolable", "heartbroken"],
+		"activity": ["eat","play videogames","sleep","have a wank","watch Netflix"],
+		"method": ["gin and pills","a plastic bag","bleach","panadol","a razorblade", "a noose made out of sheets"],
+		"trueQuality": ["narcissistic","lonely","attention-seeking","miserable","afraid","weak","insecure","worthless","stupid","a waste of time","overemotional","unstable","irresponsible","pessimistic","unreliable", "unproductive"],
+		"excuses":["it's #weather#", "I'm not #quality#", "I'll #activity# instead"],
+		"result":["loved", "acclaimed", "lauded", "liked", "accepted", "welcomed", "treasured", "popular"], 
+	"quality":["wealthy", "muscular", "intelligent", "insightful", "friendly", "funny", "warm", "creative", "hard-working", "optimistic", "happy", "confident", "passionate", "stable", "productive"], 
+		"shit":["shit", "garbage", "awful", "substandard", "inadequate", "unacceptable", "inferior", "godawful"], 
+		"goal":["exercise","shower","write","work","text you","call you","talk to you","cook","quit smoking","quit drinking","clean","get out of bed","be #quality#"],
+		"origin": ["#[weather:sunny]sentence#"]
+	}

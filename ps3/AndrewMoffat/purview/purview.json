@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "a2047878686b687c3ed875794427275c20dc56d3",
+      "name": "Open Version"
+    },
+    {
+      "sha": "9dc661135deb1d3f4142eb5267d350214a17add1",
+      "name": "Refined"
+    },
+    {
+      "sha": "2773fc272c77a526f2d18d24b403d1004458e2f3",
+      "name": "Initial"
+    }
+  ]
+}

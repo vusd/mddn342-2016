@@ -1,0 +1,3 @@
+Continuing with the data i'm getting from the nasa api I have changed the message output of that is posts include the names of the people in space and have got the background image from nasa's image and am using this input for the background for my work.
+The addition of external inputs for use in this project has made the work more interesting this is due to knowing it will be different everyday thanks to the background image
+Working on this project has made me see that having local input limits the work that I can make with something like this twitter bot to quite a degree. 

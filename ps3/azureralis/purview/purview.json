@@ -1,0 +1,20 @@
+{
+  "commits": [
+    {
+      "sha": "eefc4e8db31bf1a92f72a92f0c15badc2a6f5232",
+      "name": "Part 3 : Add external data"
+    },
+    {
+      "sha": "1398d1eebf34810dca01b0de311d10e3f3575e7f",
+      "name": "Part 2 expanded"
+    },
+    {
+      "sha": "c83e5da006e6e73c04027e382f591bebc5f9f01b",
+      "name": "Part 2 : What are you making?"
+    },
+    {
+      "sha": "e53f7acd4d5d0d48a2dd0a51cdbfa181f01d3808",
+      "name": "Part 1 : Initial Ideas"
+    }
+  ]
+}

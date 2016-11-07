@@ -1,0 +1,5 @@
+PS3 MDDN 342 2016
+
+This now displays a dex entry randomly from the game versions pulling from a seperate url (instead of loading the json url from an entry in the default url) this makes loading times easier and easier access to the data I want.
+
+Currently in this iteration there is no way of detecting if the random dex entry value is in the current pokemon database (ongoing). Additions is the glitch modification, this reaches the entire screen now instead of a small portion of the canvas (its a resized image with distributed pixels). Other additions is I have added tracery to the bot, though unused as of now, this will be implemeneted to restructure the dex entries for a more viable Did you Know segment, it is unknown if any of the dex entries exceed twitters word count so I have no idea what happens.

@@ -1,0 +1,11 @@
+{
+  "thing": ["lamp", "robot", "meme", "russian", "hotdog"],
+  "boulder": ["I like that #thing#. That is a NICE #thing#"],
+
+  "place": ["shower", "dungeon", "penthouse", "bathroom", "bedroom"],
+  "swamp": ["What are you doing in my #place#?!"],
+
+  "onion": ["NO! You dense, irritating, miniature beast of burden! Ogres are like #thing.s#! "],
+
+  "origin": ["#boulder#", "#swamp#", "#onion#"]
+}

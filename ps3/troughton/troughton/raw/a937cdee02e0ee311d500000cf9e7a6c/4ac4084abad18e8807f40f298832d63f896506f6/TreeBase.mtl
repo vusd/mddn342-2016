@@ -1,0 +1,38 @@
+newmtl grassCarpet2ShaderSG
+illum 4
+Kd 0.43 0.51 0.29
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.10 0.14 0.05
+Ns 58.00
+newmtl grassCarpet3ShaderSG
+illum 4
+Kd 0.43 0.51 0.29
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.10 0.14 0.05
+Ns 58.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl oakWhiteLeafyMedium1LeafShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.15 0.13 0.12
+Ns 3.12
+newmtl oakWhiteLeafyMedium1ShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.17 0.14 0.13
+Ns 3.12
